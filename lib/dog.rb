@@ -7,12 +7,8 @@ def name
   @dog_name
 end 
 
-def bark=b 
-  @bark=b
-end 
 def bark
-@bark
-end 
+  puts "woof!"
 end 
 
 fido =Dog.new 
