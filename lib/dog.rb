@@ -11,7 +11,7 @@ def bark=b
   @bark=b
 end 
 def bark
-puts @bark
+@bark
 end 
 end 
 
@@ -19,4 +19,4 @@ fido =Dog.new
 fido.name="Fido"
 puts fido.name 
 fido.bark="woof!"
-fido.bark
+puts fido.bark
