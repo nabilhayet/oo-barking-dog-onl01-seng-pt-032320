@@ -1,18 +1,18 @@
 # Your code goes here!
 class Dog 
-def name=dog name 
-@dog_name
+def name=n
+@dog_name=n
 end
 def name 
   @dog_name
 end 
 
-def bark=dog br 
+def bark=br 
+  @bark
 end 
 def bark
 
 end 
-
 end 
 
 fido =Dog.new 
