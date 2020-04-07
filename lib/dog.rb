@@ -7,11 +7,11 @@ def name
   @dog_name
 end 
 
-def bark=br 
-  @bark
+def bark=b 
+  @bark=b
 end 
 def bark
-
+@bark
 end 
 end 
 
